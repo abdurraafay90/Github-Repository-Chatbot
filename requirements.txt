@@ -1,0 +1,8 @@
+chainlit>=1.1.300
+langchain-core>=0.3.13
+langchain-community>=0.3.2
+langchain-text-splitters>=0.3.0
+langchain-openai>=0.2.2
+faiss-cpu>=1.8.0
+requests>=2.32.3
+python-dotenv>=1.0.1
