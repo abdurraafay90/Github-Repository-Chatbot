@@ -22,7 +22,7 @@ Simply paste a public GitHub repo link, and the chatbot will fetch all readable 
 
 🔁 Simple, modular, and extensible pipeline — perfect for experimenting with RAG
 
-##🧰 Tech Stack
+## 🧰 Tech Stack
 Component	Library
 Framework	Chainlit
 
@@ -33,8 +33,8 @@ Vector Store	FAISS
 
 Repo Fetching	requests (GitHub REST API)
 Environment	.env for API keys
-##⚙️ Installation & Setup
-###1️⃣ Clone the repository
+## ⚙️ Installation & Setup
+### 1️⃣ Clone the repository
 ```
 git clone https://github.com/your-username/github-chatbot.git
 ```
@@ -42,7 +42,7 @@ git clone https://github.com/your-username/github-chatbot.git
 cd github-chatbot
 ```
 
-###2️⃣ Create a virtual environment
+### 2️⃣ Create a virtual environment
 ```
 python -m venv .venv
 ```
@@ -50,7 +50,7 @@ python -m venv .venv
 .\.venv\Scripts\activate
 ```
 
-###3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 
 🧩 Option 1 — Using pip
 ```
@@ -61,14 +61,14 @@ pip install -r requirements.txt
 ```
 uv pip install -r requirements.txt
 ```
-###4️⃣ Set up environment variables
+### 4️⃣ Set up environment variables
 
 Create a .env file in your project root directory and add your OpenAI API key:
 
 ```
 OPENAI_API_KEY=your_openai_api_key_here
 ```
-###5️⃣ Run the chatbot
+### 5️⃣ Run the chatbot
 
 🧠 Using uv (recommended)
 ```
