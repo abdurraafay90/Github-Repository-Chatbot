@@ -1,9 +1,9 @@
-#🧠 GitHub Repository Chatbot
+# 🧠 GitHub Repository Chatbot
 
 A conversational GitHub repository assistant built using LangChain, OpenAI, and Chainlit.
 Simply paste a public GitHub repo link, and the chatbot will fetch all readable files, build embeddings, and let you ask questions about the repository’s code, documentation, or structure — just like ChatGPT for GitHub!
 
-##🚀 Features
+## 🚀 Features
 
 
 🔗 Accepts any public GitHub repository link
